@@ -1,5 +1,5 @@
 🌐 Live Demo
-👉 View Website: https://harinipalani.github.io/event-management/
+👉 View Website: https://gallery-harini.neocities.org/event%20management/event
 
 
 🚀 Features
