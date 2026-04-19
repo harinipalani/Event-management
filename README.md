@@ -5,11 +5,11 @@
 
 🚀 Features
 
-   📅 Event listing and scheduling
-   🖼️ Photo gallery for past events
-   🎭 Fashion & special event highlights
-  📍 Event details with location and timing
-  ⚡ Fast and lightweight static site
+📅 Event listing and scheduling
+🖼️ Photo gallery for past events
+🎭 Fashion & special event highlights
+📍 Event details with location and timing
+⚡ Fast and lightweight static site
 
 🛠️ Tech Stack
 
