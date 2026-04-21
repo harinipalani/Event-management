@@ -1,5 +1,5 @@
 🌐 Live Demo
-👉 View Website: view the Event management website
+👉 View Website: https://69e755fd0cb3f30dd410f1ed--kaleidoscopic-figolla-2ac0a1.netlify.app/
 
 
 🚀 Features
@@ -34,7 +34,7 @@ Run with Docker:
   docker-compose up
   
 Open in browser:
-https://gallery-harini.neocities.org/event%20management/event
+https://69e755fd0cb3f30dd410f1ed--kaleidoscopic-figolla-2ac0a1.netlify.app/
 
 📁 Project Structure
 
