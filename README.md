@@ -1,5 +1,5 @@
 🌐 Live Demo
-👉 View Website: https://gallery-harini.neocities.org/event%20management/event
+👉 View Website: C:\Users\harin\OneDrive\Desktop\html-youtube-tutorial-main\html-youtube-tutorial-main\Event Management HTML Project\starter\event.html
 
 
 
