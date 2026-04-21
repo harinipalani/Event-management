@@ -1,6 +1,5 @@
 🌐 Live Demo
-👉 View Website: C:\Users\harin\OneDrive\Desktop\html-youtube-tutorial-main\html-youtube-tutorial-main\Event Management HTML Project\starter\event.html
-
+👉 View Website: view the Event management website
 
 
 🚀 Features
